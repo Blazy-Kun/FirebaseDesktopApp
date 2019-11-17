@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirebaseDesktopApp", "FirebaseDesktopApp\FirebaseDesktopApp.csproj", "{281F01B2-BF59-487B-97E2-3ED2CF2128C3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3AA2E193-4C9E-4519-9D94-8BEE071229DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{281F01B2-BF59-487B-97E2-3ED2CF2128C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{281F01B2-BF59-487B-97E2-3ED2CF2128C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{281F01B2-BF59-487B-97E2-3ED2CF2128C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{281F01B2-BF59-487B-97E2-3ED2CF2128C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E4E8BFB-2C6C-49FA-AD67-F6878B3D82FE}
+	EndGlobalSection
+EndGlobal
